@@ -1,1 +1,4 @@
-<script>alert("HELLO");</script>
+(function() {
+        console.log("Hello World");
+        alert("GOod");
+    })();
